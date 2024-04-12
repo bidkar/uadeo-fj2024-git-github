@@ -1,1 +1,3 @@
-# uadeo-fj2024-git-githubBidkar Aragón Cárdenas
+# uadeo-fj2024-git-github
+
+Bidkar Aragón Cárdenas
